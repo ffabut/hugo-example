@@ -1,4 +1,4 @@
-baseURL = 'https://ffabut.github.io/huo-sample-page'
+baseURL = 'https://ffabut.github.io/hugo-example'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'default-theme'
